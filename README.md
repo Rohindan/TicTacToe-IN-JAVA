@@ -61,4 +61,4 @@ GitHub: https://github.com/Rohindan
 
 ---
 
-⭐ If you like this project, consider giving it a stargit 
+⭐ If you like this project, consider giving it a star.
